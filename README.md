@@ -12,7 +12,9 @@ Download Links:
 * Google Drive
 * [Github]
 
+<p align="center">
 ![](ezgif.com-video-to-gif.gif)
+</p>
 
 [Google]: <>
 [Github]: <https://github.com/Alirezaaraby/TimeLine-Manager-Application-/blob/master/Version%201.1.apk>
