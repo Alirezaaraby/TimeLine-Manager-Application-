@@ -13,7 +13,7 @@ Download Links:
 * [Github]
 
 <p align="center">
-![](ezgif.com-video-to-gif.gif)
+  <img src="https://github.com/Alirezaaraby/TimeLine-Manager-Application-/blob/master/ezgif.com-video-to-gif.gif">
 </p>
 
 [Google]: <>
