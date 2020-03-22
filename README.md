@@ -13,4 +13,4 @@ Download Links:
 * [Github]
 
 [Google]: <>
-[Github]: <https://github.com/Alirezaaraby/TimeLine-Manager-Application-/blob/master/TimeManager.apk>
+[Github]: <https://github.com/Alirezaaraby/TimeLine-Manager-Application-/blob/master/Version%201.1.apk>
